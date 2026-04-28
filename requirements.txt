@@ -6,6 +6,6 @@ psycopg2==2.9.7
 pyarrow==12.0.1
 Requests==2.31.0
 SQLAlchemy==2.0.20
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 cloudscraper==1.2.71
 lxml==5.4.0
