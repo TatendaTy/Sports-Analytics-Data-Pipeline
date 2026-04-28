@@ -1,0 +1,9 @@
+# environment folders
+.venv/
+.vscode/
+__pycache__/
+.env
+
+# parquet files
+parquet_exports/
+*.parquet
