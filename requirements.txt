@@ -8,4 +8,4 @@ Requests==2.31.0
 SQLAlchemy==2.0.20
 python-dotenv==1.0.0
 cloudscraper==1.2.71
-lxml==5.4.0
+lxml==6.1.0
