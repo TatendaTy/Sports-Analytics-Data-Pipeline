@@ -9,6 +9,6 @@ parquet_exports/
 *.parquet
 
 # images
-image.png
-image-1.png
-image-2.png
+# image.png
+# image-1.png
+# image-2.png
